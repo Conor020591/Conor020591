@@ -1,4 +1,6 @@
-### Hi there 👋
+My repositories are aranged so that the first word in each title is the project it belongs to. The words after the first "_" indicate the skills and type of work that is done in the project.
+
+This allows the projects to be organize while also being easily sortable for anyone to look through and gauge particular skills.
 
 <!--
 **Conor020591/Conor020591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
