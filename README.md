@@ -7,7 +7,7 @@ Here I will give a working order and description for the LegoSet project:
 1. LegoSet_DataScraping - This is what I used to scrape the data used in the project from the Bricklink website
 2. LegoSet_EDA_DataClean - Here I looked through the data, found which features were important, and removed products that were not actually legosets (books, art supplies, etc.)
 3. LegoSet_LinearRegression - I did a basic linear regression on the data, including 2nd order polynomials. I created a testing methodology for finding the optimum encoding for categorical data
-4. LegoSet_RidgeRegression - Here I performed a ridge regression on the data. I used the RidgeCV() class to automaticall optimize the parameters. This also found that the optimal encoding for the categorical data was different to the linear regression. And a better RMSE was found when predicting the validation set.
+4. LegoSet_OtherSK-Learn - In this project I have used other scikit-learn models to analyze the lego data.
 
 
 
